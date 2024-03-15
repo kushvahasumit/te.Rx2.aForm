@@ -1,6 +1,6 @@
 # Terraform Project
 
-This repository contains Terraform configurations for provisioning infrastructure on [cloud provider].
+This repository contains Terraform configurations for provisioning infrastructure on AWS.
 
 ## Getting Started
 
