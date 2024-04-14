@@ -21,6 +21,9 @@ To get started with this project, follow these steps:
 - `terraform.tfstate`: Terraform state file (ignore in version control).
 - `README.md`: This file.
 
+## Project names
+1. Ec2 deployment on AWS 
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
