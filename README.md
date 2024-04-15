@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 - `README.md`: This file.
 
 ## Project names
-1. Ec2 deployment on AWS 
+1. Ec2 deployment [project-Ec2]
 
 ## Contributing
 
