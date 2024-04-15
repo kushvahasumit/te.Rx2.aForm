@@ -21,8 +21,15 @@ To get started with this project, follow these steps:
 - `terraform.tfstate`: Terraform state file (ignore in version control).
 - `README.md`: This file.
 
-## Project names
-1. [Ec2 deployment(https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-Ec2)]
+## Test Project on AWS
+1. [Ec2 deployment](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-Ec2)
+2. [Ec2 module structure](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-Ec2-mot)
+3. [S3 Bucket](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-S3)
+4. [S3 Backend](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-S3_backend)
+5. [Server](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-server)
+6. [Clusterd Server](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-ClusterdServer)
+7. [RDS ](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-Rds)
+8. [IAM user](https://github.com/kushvahasumit/te.Rx2.aForm/tree/main/project-IAM_user)
 
 ## Contributing
 
